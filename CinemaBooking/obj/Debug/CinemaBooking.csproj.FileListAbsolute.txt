@@ -1,0 +1,15 @@
+C:\Users\PC\source\repos\CinemaBooking\CinemaBooking\obj\Debug\CinemaBooking.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\CinemaBooking\CinemaBooking\obj\Debug\CinemaBooking.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\source\repos\CinemaBooking\CinemaBooking\obj\Debug\CinemaBooking.Properties.Resources.resources
+C:\Users\PC\source\repos\CinemaBooking\CinemaBooking\obj\Debug\CinemaBooking.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\CinemaBooking\CinemaBooking\obj\Debug\CinemaBooking.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\CinemaBooking\CinemaBooking\bin\Debug\CinemaBooking.exe.config
+C:\Users\PC\source\repos\CinemaBooking\CinemaBooking\bin\Debug\CinemaBooking.exe
+C:\Users\PC\source\repos\CinemaBooking\CinemaBooking\bin\Debug\CinemaBooking.pdb
+C:\Users\PC\source\repos\CinemaBooking\CinemaBooking\obj\Debug\CinemaBooking.LoginPage.resources
+C:\Users\PC\source\repos\CinemaBooking\CinemaBooking\obj\Debug\CinemaBooking.exe
+C:\Users\PC\source\repos\CinemaBooking\CinemaBooking\obj\Debug\CinemaBooking.pdb
+C:\Users\PC\source\repos\CinemaBooking\CinemaBooking\bin\Debug\Database.mdf
+C:\Users\PC\source\repos\CinemaBooking\CinemaBooking\bin\Debug\Database_log.ldf
+C:\Users\PC\source\repos\CinemaBooking\CinemaBooking\obj\Debug\CinemaBooking.AdminPage.resources
+C:\Users\PC\source\repos\CinemaBooking\CinemaBooking\obj\Debug\CinemaBooking.UserPage.resources
